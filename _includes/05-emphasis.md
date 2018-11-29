@@ -1,4 +1,4 @@
-```python
+```py
 import sss
 
 function x(this,a):
